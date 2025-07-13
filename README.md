@@ -1,4 +1,4 @@
-# Retail Data Analytics Orchestration (Cloud Composer / Airflow)
+# Customer data integration (Cloud Composer / Airflow)
 
 ## Overview
 
